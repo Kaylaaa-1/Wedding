@@ -508,9 +508,9 @@ header {
 }
 
 .logo {
-  width: 60px;     /* Atur ukuran sesuai keinginan */
-  height: auto;
-  margin-right: 15px;
+  width: 5px;     /* Atur ukuran sesuai keinginan */
+  height: 5px;
+  margin-right: 5px;
 }
 
 /* Tablet */
