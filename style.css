@@ -500,18 +500,6 @@ html{
 }
 }
 
-header {
-  display: flex;
-  align-items: center;
-  padding: 10px 20px;
-  background-color: #f2f2f2;
-}
-
-.logo {
-  width: 5px;     /* Atur ukuran sesuai keinginan */
-  height: 5px;
-  margin-right: 5px;
-}
 
 /* Tablet */
 @media(max-width:768px){
