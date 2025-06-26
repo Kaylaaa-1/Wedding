@@ -500,6 +500,19 @@ html{
 }
 }
 
+header {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f2f2f2;
+}
+
+.logo {
+  width: 60px;     /* Atur ukuran sesuai keinginan */
+  height: auto;
+  margin-right: 15px;
+}
+
 /* Tablet */
 @media(max-width:768px){
 html{
